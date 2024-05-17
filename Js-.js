@@ -12,7 +12,7 @@ function Calculate(){
         alert("invalid input")
     }
 }
-function clear(){
+function clearScreen(){
     outputScreen.value = "";
 }
 function del(){
